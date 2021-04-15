@@ -5,4 +5,4 @@
 usethis::use_git()
 usethis::use_github()
 usethis::create_github_token()
-gitcreds::gitcreds_set(url = "http://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")
+gitcreds::gitcreds_set()
